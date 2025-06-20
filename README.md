@@ -13,6 +13,7 @@ SISTEMA DE CONTROLE DE ESTOQUE - PYTHON
 🔐 LOGIN PADRÃO
 -------------------------------------------
 Usuário: admin
+
 Senha : admin
 
 ⚠️ Caso o login não funcione:
